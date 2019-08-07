@@ -94,6 +94,9 @@ Please post new questions as GitHub issues.
 
 Examples
 --------
+Article on the usage in conjunction with `CMake <https://cmake.org/>`_ for C++ project 
+`Clear, Functional C++ Documentation with Sphinx + Breathe + Doxygen + CMake <https://devblogs.microsoft.com/cppblog/clear-functional-c-documentation-with-sphinx-breathe-doxygen-cmake>`_
+
 
 Examples of Breathe used by other projects:
 
