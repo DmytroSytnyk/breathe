@@ -103,6 +103,9 @@ Examples of Breathe used by other projects:
 - `fmt <http://fmtlib.net/latest>`_
 - `Lasso C API <http://lassoguide.com/api/lcapi-reference.html>`_
   [`pdf <http://lassoguide.com/LassoGuide9.2.pdf>`__]
+The last project can be used as a syntax tutorial as it allows to quickly switch between the generated documentation and its source. 
+
+`Sphinx and RST syntax guide <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ is another usefull resource of information on Restructured Text (reST) and Sphinx syntax.
 
 If you have an example you would like listed here, please make a github issue
 with the details.
